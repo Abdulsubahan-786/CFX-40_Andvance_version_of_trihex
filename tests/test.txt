@@ -1,0 +1,2 @@
+CFX-40 prototype test payload
+This file verifies the hex-grid encoder/decoder layout and metadata flow.
